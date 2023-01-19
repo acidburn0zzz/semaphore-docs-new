@@ -1,6 +1,6 @@
 GIT
-  remote: git://github.com/renderedtext/api.git
-  revision: 3159a1edf7cd0393cd3c33ab94407f7668a998ec
+  remote: https://github.com/renderedtext/api.git
+  revision: 158b096ff10b1b93638fa86b0b1ab46c8bad59b3
   specs:
     raml_parser (0.5.0)
 
@@ -124,7 +124,7 @@ GEM
     padrino-support (0.12.8.1)
       activesupport (>= 3.1)
     pmap (1.0.1)
-    rack (1.6.8)
+    rack (1.6.13)
     rack-test (0.8.2)
       rack (>= 1.0, < 3)
     rb-fsevent (0.10.2)
